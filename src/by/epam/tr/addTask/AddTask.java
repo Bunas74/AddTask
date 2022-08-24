@@ -20,7 +20,6 @@ public class AddTask {
         System.out.println(t2.getFirst() + " to " + t2.getSecond());
         
         System.out.println(t3.getFirst() + " " + t3.getSecond());
-
         
     }
     
