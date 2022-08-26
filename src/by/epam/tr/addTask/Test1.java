@@ -8,12 +8,12 @@ public class Test1 {
               этих двух переменных. */
     
     
-    private static int first;
+    private int first;
     
-    private static int second;
+    private int second;
     
     
-    public static void print() {
+    public void print() {
         
         System.out.println("first = " + first);
         
@@ -49,7 +49,7 @@ public class Test1 {
         
     }
     
-    public static int sum(int f, int s) {
+    public int sum(int f, int s) {
         
         int sum;
         
@@ -59,7 +59,7 @@ public class Test1 {
         
     }
     
-    public static int max(int f, int s) {
+    public int max(int f, int s) {
         
         int max;
         
